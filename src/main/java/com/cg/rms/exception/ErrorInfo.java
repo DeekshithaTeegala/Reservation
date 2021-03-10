@@ -6,7 +6,7 @@ public class ErrorInfo {
 private LocalDateTime timestamp;
 private String errorMessage;
 private String details;
-
+//edit
 public ErrorInfo(LocalDateTime timestamp, String errorMessage, String details) {
 super();
 this.timestamp = timestamp;
